@@ -1,0 +1,64 @@
+Humour :3
+Art :3
+Culture :3
+Galerie :1
+Théâtre :2
+Musée :2
+Musique :3
+Film :2
+Livre :2
+Roman :2
+Scène :1
+Auteur :1
+Exposition:2
+œuvre:1
+comédien :1
+Spectacle:1
+histoire:1
+danse :1
+Peintre:1
+artiste:1
+concerts:1
+oeuvres:1
+expositions:1
+scène:1
+scènes:1
+opéra:1
+livre:2
+livres:2
+cinéaste:1
+compositeur:1
+Musée:1
+article:1
+artistes:1
+nomination:1
+culturelle:1
+culturel:1
+cultures:1
+tournée:1
+interprété:1
+journal:1
+journalistes:1
+journaliste:1
+musicien:1
+concert:1
+spectacle:1
+création:1
+Théâtre:2
+culture:3
+art:3
+auteur:2
+musée:2
+peintre:2
+exposition:2
+scène:2
+roman:2
+musique:2
+musiques:2
+galerie:2
+galeries:2
+humour:2
+films:2
+film:2
+sculpture:2
+sculptures:2

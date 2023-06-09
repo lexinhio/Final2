@@ -1,0 +1,79 @@
+###########################  RESULTATS  #######################
+
+===========================  Vitesse  ========================
+------------------------   Résultat 1  -----------------------
+Création des tableaux ---------------------------------  28 ms
+Création et initialisation des catégories -------------  2 ms
+Génération des lexiques -------------------------------  224 ms
+Initialisation des lexiques ---------------------------  16 ms
+Génération du résultat --------------------------------  48 ms
+--------------------   Temps TOTAL : 318 ms   -----------------
+
+
+------------------------   Résultat 2  -----------------------
+Création des tableaux ---------------------------------  35 ms
+Création et initialisation des catégories -------------  0 ms
+Génération des lexiques -------------------------------  443 ms
+Initialisation des lexiques ---------------------------  13 ms
+Génération du résultat --------------------------------  34 ms
+--------------------   Temps TOTAL : 525 ms   -----------------
+
+
+------------------------   Résultat 3  -----------------------
+Création des tableaux ---------------------------------  19 ms
+Création et initialisation des catégories -------------  0 ms
+Génération des lexiques -------------------------------  399 ms
+Initialisation des lexiques ---------------------------  15 ms
+Génération du résultat --------------------------------  36 ms
+--------------------   Temps TOTAL : 469 ms   -----------------
+
+
+------------------------   Résultat 4  -----------------------
+Création des tableaux ---------------------------------  10 ms
+Création et initialisation des catégories -------------  0 ms
+Initialisation des lexiques ---------------------------  3 ms
+Génération du résultat --------------------------------  31 ms
+--------------------   Temps TOTAL : 44 ms   -----------------
+
+
+===========================  Taux de réussite  ========================
+------------------------   Résultat 1  -----------------------
+CULTURE 81.0%
+ECONOMIE 74.0%
+ENVIRONNEMENT-SCIENCES 65.0%
+POLITIQUE 74.0%
+SPORTS 89.0%
+Moyenne : 76.6%
+------------------------   Résultat 2  -----------------------
+CULTURE 85.0%
+ECONOMIE 71.0%
+ENVIRONNEMENT-SCIENCES 60.0%
+POLITIQUE 67.0%
+SPORTS 82.0%
+Moyenne : 73.0%
+------------------------   Résultat 3  -----------------------
+CULTURE 83.0%
+ECONOMIE 69.0%
+ENVIRONNEMENT-SCIENCES 62.0%
+POLITIQUE 67.0%
+SPORTS 82.0%
+Moyenne : 72.6%
+------------------------   Résultat 4  -----------------------
+CULTURE 85.0%
+ECONOMIE 53.0%
+ENVIRONNEMENT-SCIENCES 54.0%
+POLITIQUE 59.0%
+SPORTS 75.0%
+Moyenne : 64.8%
+
+
+===========================  Cout algorithmique  ========================
+------------------------   Résultat 1  -----------------------
+Nombre d'opérations calculScore --------------  1229437 opérations
+Nombre d'opérations score --------------------  1167036 opérations
+------------------------   Résultat 2  -----------------------
+Nombre d'opérations calculScore --------------  52950628 opérations
+Nombre d'opérations score --------------------  1231937 opérations
+------------------------   Résultat 3  -----------------------
+Nombre d'opérations calculScore --------------  25798767 opérations
+Nombre d'opérations score --------------------  1231937 opérations
